@@ -7,4 +7,5 @@ Use : [this](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+
 
 
 Use this to navigate : 
-- [Système Maison](file:///C:\Users\insta\Documents\quartz\content\SystemMaison)]]
+- [Système Maison](file:///C:\Users\insta\Documents\quartz\content\SystemMaison)
+- [[SystemMaison]]
