@@ -1,0 +1,6 @@
+---
+aliases:
+  - Tegan
+---
+# Tegan
+Viel homme vivant dans une caverne sombre sur la cote déchiré. Il serai le guide décrit dans le manuscrit trouvé par [[Merrelri]]. Il lui apprend a comprendre et a utiliser son don de guerrison. 

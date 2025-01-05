@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"group","id":"d8be230238100de9","x":-8640,"y":-5280,"width":11840,"height":13280,"label":"Ironsworn map","background":"manuels/ironsworn/core/ironsworn2.png"},
+		{"type":"text","text":"test","id":"0546e914765c6066","x":1570,"y":2119,"width":250,"height":60},
+		{"type":"text","text":"[[damaldr|Damaldr]]","id":"695af42ce4a972c6","x":-1663,"y":1119,"width":100,"height":50},
+		{"type":"text","text":"[[chathaldur|Chathaldur]]","id":"a10095fa001234f3","x":-1230,"y":1540,"width":116,"height":50},
+		{"type":"text","text":"[[dawnfell|Dawnfell]]","id":"e582e20f06f1a94d","x":-5216,"y":117,"width":92,"height":50},
+		{"type":"text","text":"[[la-foret-grise|La foret grise]]","id":"b46f1adaf420795b","x":-4786,"y":4841,"width":125,"height":50}
+	],
+	"edges":[
+		{"id":"ed77908f74f47f04","fromNode":"695af42ce4a972c6","fromSide":"right","toNode":"a10095fa001234f3","toSide":"left","color":"5","label":"Alliés"}
+	]
+}

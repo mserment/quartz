@@ -1,0 +1,39 @@
+Maxence : 1
+Clement : 12
+
+Age : 3eme age
+Tour : 0
+
+
+CIV Defricheur :
+Align : -2
+Village : Maison neuve
+Village : Le camp lointain (Align = -1)
+Avatar : Le pere / Marin / Collecter une dette
+	A reduit en esclavage les nomades
+Event : A crée et et exploite une mine de mineraux rare
+Event : Premiere fois que le leader : La Fille au pouvoir
+
+CIV Les hommes du sud 
+Advanced : Marin experimenté
+Align : 0
+Croyance : Impossible de passer par les roches voile
+Ordre : Brise lisiere (Mené par Tahir) / Disparu 
+Ordre : La Garde de Lestara (Cherche a defendre les crocs les terres du Sud)
+Ordre : Ourse de sang (Defier le monde / Mercenaire / Raider)
+Village : Le passage de lestara
+Village Loups brisé 
+Avatar : Tahir / Vagabon / Refuter un mensonge
+	Chercher a trouver un passage par delas les Roches voilé
+	A fait la rencontre des Rocheux a plumes 
+	Porté disparu depuis
+
+CIV Les nomades (Les faibles sangs) 
+Align : 0
+VIllage : 0 (detruit par les Defricheurs)
+
+CIV ? 
+Align ?
+Village ?
+
+Rocheux a plumes (petite sourie a plume. grande force, ronge tout y compris la roche, plumes leur permets de faire des sauts plus loins)
