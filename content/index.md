@@ -7,6 +7,4 @@ Use : [this](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+
 
 
 Use this to navigate : 
-
-[[Règles v1.2]]
-[[Caractéristiques]]
+- [Système Maison](file:///C:\Users\insta\Documents\quartz\content\SystemMaison)]]
