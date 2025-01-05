@@ -14,6 +14,7 @@ aliases:
 | [[Caractéristiques#Charisme\|Charisme]]         | La force de personnalité, l'éloquence, le leadership   |
 | [[Caractéristiques#Constitution\|Constitution]] | La santé, l'endurance, la force vitale                 |
 >+2 (au dessus de 10) en Constitution donne un point de vie supplémentaire 
+>
 >+4 (au dessus de 10) en Intelligence donne un point de protection magique supplémentaire au dessus de 10
 
 ## Force
